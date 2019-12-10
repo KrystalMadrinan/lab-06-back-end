@@ -1,6 +1,6 @@
 # Lab-06
 
-**Author**: Your Name Goes Here
+**Author**: Krystal Madrinan
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
@@ -33,6 +33,30 @@ Actual time needed to complete: 2 hours
 
 
 Number and name of feature: #2 Locations
+
+Estimate of time needed to complete: 
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+
+
+Number and name of feature: #3 Weather
+
+Estimate of time needed to complete: 
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+
+
+Number and name of feature: #4 Errors
 
 Estimate of time needed to complete: 
 
