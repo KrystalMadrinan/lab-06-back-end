@@ -21,7 +21,18 @@
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 -->
 
-Number and name of feature: 
+Number and name of feature: #1 Repo Set-up
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 10:30 ?
+
+Finish time: 12:35 
+
+Actual time needed to complete: 2 hours 
+
+
+Number and name of feature: #2 Locations
 
 Estimate of time needed to complete: 
 
